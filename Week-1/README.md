@@ -16,6 +16,6 @@ Kaggle Sample Sales Dataset ([link here](https://www.kaggle.com/datasets/kyanyog
 - Ranking & Final Report
 
 ## How to Run
-1. Load dataset into SQL Server/SSMS (table: sales_data_sample).
+1. Load dataset into SQL Server/SSMS (table: sales_data_sample)
 2. Run queries from `Week-1 Queries.sql` in order.
 
