@@ -6,7 +6,7 @@ This project simulates a **mini ETL pipeline** using Pandas, following the Data 
 ## 📂 Files
 - `ETL_Pandas_Healthcare.ipynb` → Colab Notebook with 20 exercises
 - `cleaned_hospital_data.csv` → Cleaned dataset (CSV format)
-- `cleaned_hospital_data.parquet` → Cleaned dataset (Parquet format)
+- `cleaned_hospital_data.parquet → Cleaned dataset (Parquet format)
 
 ## 🛠 Tools
 - Python (Google Colab)
